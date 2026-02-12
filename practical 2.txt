@@ -1,0 +1,12 @@
+<html>
+<title> Practical no. 2 <\title>
+<head>
+<h1> Name: Twinkle <\h1>
+<h2> USN : Cs25183 <\h2><br>
+<p><b> I am going to college everyday.
+    I am attending all lectures <\p><\b><br>
+<b> Tags:<\b><i>Bold, Italic,Underline,Header,Footer<\i>
+<b> Attributes: <\b><i>Backgroud color, alignment <\i>
+<bcgcolor> Purple <\bcgcolor>
+<h3> We are adding images. <\h1>
+<h4> img src = "C:\Users\STUDENTS\Pictures\ABC.png"> <\h2>
